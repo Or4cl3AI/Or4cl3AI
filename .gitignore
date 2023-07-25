@@ -1,0 +1,25 @@
+# .gitignore
+
+# Ignore node_modules folder
+/node_modules
+
+# Ignore all log files
+*.log
+
+# Ignore all .env files
+*.env
+
+# Ignore all .DS_Store files
+*.DS_Store
+
+# Ignore all .cache files
+*.cache
+
+# Ignore dist folder
+/dist
+
+# Ignore SEO config file
+/website/seo_config.json
+
+# Ignore assets folder
+/website/assets/
