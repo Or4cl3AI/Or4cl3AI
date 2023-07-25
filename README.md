@@ -12,8 +12,6 @@ For a brief overview of each repository, please refer to the `repositories_overv
 
 We have also set up an SEO optimized personal website to promote our startup. The website is visually stunning, interactive, and fully reactive. It provides a detailed and descriptive summary of our company and each repository. 
 
-You can visit our website at `www.or4cl3.com`.
-
 ## AI Chatbot
 
 Our website also features a friendly conversational AI chatbot. It's integrated into the website to interact with visitors, providing them with quick responses and guiding them through our offerings. The chatbot's conversations can be found in the `chatbot_conversations.txt` file in the `./website/assets/` directory.
@@ -27,3 +25,4 @@ Our website's SEO configurations can be found in the `seo_config.json` file in t
 Our assets, including our logo (`logo.png`), background image (`background.jpg`), and overviews of our company and repositories (`company_overview.txt` and `repositories_overview.txt`), can be found in the `./website/assets/` directory.
 
 Thank you for visiting our GitHub repository. We look forward to solving today's problems with tomorrow's technology together.
+
