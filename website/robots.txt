@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://www.or4cl3aisolutions.com/sitemap.xml
+
+User-agent: Googlebot
+Allow: /assets/
+Allow: /css/
+Allow: /js/
+
+User-agent: Bingbot
+Allow: /assets/
+Allow: /css/
+Allow: /js/
